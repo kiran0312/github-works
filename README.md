@@ -1,10 +1,10 @@
-<h1 align="left">HELLO</h1>
+<h1 align="left">"Bonjour"</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello i'm SAIKIRAN MUTHURAMAN ,<br>a fresher seeking oppurtunities to learn and grow.</p>
+<p align="left">Hello i'm SAIKIRAN MUTHURAMAN,<br> <br>a  MCA graduate and  a fresher seeking oppurtunities to learn and grow.<br><br>#Open to work <br># junior developer<br># software developer<br># java developer</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...  JAVA FULLSTACK</p>
+<p align="left">#learning  -  JAVA FULLSTACK<br>#Passionate about coding and tech.<br>#Seeking oppurtunities to learn and grow.</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Social media profle</p>
 
 ###
 
@@ -54,11 +54,19 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kiran0312/kiran0312/output/snake.svg" alt="Snake animation" />
+<p align="left">PROJECTS</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">1. Artificial Immune System<br>2. Portfoflio<br>3. number guessing game<br>4. Weather Foracast app <br>5.  snake game<br>6.  currency convertor<br>7.  audi clone app<br>8.  Hotel management system<br><br># LEARNING ....</p>
+
+###
+
+<p align="left">ACHIEVEMENTS</p>
+
+###
+
+<p align="left">1.Top perfomer in ETHICAL HACKING by internshala. <br>2, Published of my academic project on IJRASET.</p>
 
 ###
 
