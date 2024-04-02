@@ -53,16 +53,14 @@
 </div>
 
 ###
-
-<p align="left">PROJECTS</p>
+<h2 align="left">PROJECTS</h2>
 
 ###
 
 <p align="left">1. Artificial Immune System<br>2. Portfoflio<br>3. number guessing game<br>4. Weather Foracast app <br>5.  snake game<br>6.  currency convertor<br>7.  audi clone app<br>8.  Hotel management system<br><br># LEARNING ....</p>
 
 ###
-
-<p align="left">ACHIEVEMENTS</p>
+<h2 align="left">ACHIEVEMENTS</h2>
 
 ###
 
